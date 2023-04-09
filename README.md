@@ -1,7 +1,5 @@
 # Exercício 17 JAVA
-Um programa que pede o tamanho da área a ser pintada, em metros quadrados. 
-
-Mostra como fica:
+Um programa que pede o tamanho da área a ser pintada, em metros quadrados e mostra como fica:
 - Comprando só latas.
 - Comprando só galões.
 - Misturando latas e galões, de forma mais econômica.
